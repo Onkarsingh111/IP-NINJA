@@ -24,3 +24,11 @@ The goal of this tool is to make subnetting and IP address management easier, es
 4. The script will output detailed information, including the IP class, subnet mask, network and broadcast IDs, usable IP range, and the number of hosts available in the network.
 
 Example output:
+IPv4 ADDRESS : 10.93.3.3
+** IP Subnet Analysis Results for 10.93.3.3 ( Private )**
+  Class:               Class A
+  Subnet Mask (CIDR):  255.0.0.0 /8
+  Network ID:          10.0.0.0
+  Broadcast ID:        10.255.255.255
+  Usable IP Range:     10.0.0.1 - 10.255.255.254
+  Usable Hosts:        16777214
