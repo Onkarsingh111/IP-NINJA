@@ -32,3 +32,7 @@ IPv4 ADDRESS : 10.93.3.3
   Broadcast ID:        10.255.255.255
   Usable IP Range:     10.0.0.1 - 10.255.255.254
   Usable Hosts:        16777214
+
+## License
+
+No License - Feel free to use, modify, and share the code as needed. This project is open for collaboration and improvements.
